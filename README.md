@@ -6,7 +6,7 @@
 > O projeto é composto pelas seguintes pastas:
 - ***build***, que possui os arquivos principais do site já minificados
 - ***src (source)***, que possui o código fonte, disposto de maneira mais legível
-- ***ulp tasks***, que são apenas dependências do gulp.
+- ***gulpTasks***, que são apenas dependências do gulp.
 
 #### Visualização
 > Para vistualização do site clique [aqui](https://brunoseij.github.io/) ou faça o download da pasta **build** e abra o arquivo index.html em um navegador.
